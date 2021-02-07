@@ -1,0 +1,3 @@
+[submodule "themes/skeleton"]
+	path = themes/skeleton
+	url = https://github.com/fukugit/skeleton.git
